@@ -1,0 +1,12 @@
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\bin\Debug\Aydogan_Mert_3131A.exe.config
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\bin\Debug\Aydogan_Mert_3131A.exe
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\bin\Debug\Aydogan_Mert_3131A.pdb
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\bin\Debug\OpenTK.dll
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\bin\Debug\OpenTK.GLControl.dll
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\bin\Debug\OpenTK.xml
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\bin\Debug\OpenTK.GLControl.xml
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\obj\Debug\Aydogan_Mert_3131A.csproj.AssemblyReference.cache
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\obj\Debug\Aydogan_Mert_3131A.csproj.CoreCompileInputs.cache
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\obj\Debug\Aydogan_Mert_3131A.csproj.CopyComplete
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\obj\Debug\Aydogan_Mert_3131A.exe
+C:\Users\mertaydogan\source\repos\Aydogan_Mert_3131A\Aydogan_Mert_3131A\obj\Debug\Aydogan_Mert_3131A.pdb
